@@ -23,6 +23,7 @@ export default {
 /* Aggiungo qualche stile css al mio componente */
 .container {
     background-color: black;
+    border-radius: 10px;
 }
 h1 {
     color: red;
