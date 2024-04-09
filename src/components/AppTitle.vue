@@ -12,7 +12,7 @@ export default {
     data() {
         // Nei data gli faccio ritornare una stringa di testo
         return {
-            title: 'La mia prima App con vite!'
+            title: 'La mia prima App con Vite!'
         }
     }
 
