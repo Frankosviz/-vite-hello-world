@@ -1,11 +1,11 @@
 <template>
-    <AppTitle />
+    <div>
+
+    </div>
 </template>
 
 <script>
-import AppTitle from './components/AppTitle.vue'
     export default {
-
         
     }
 </script>
@@ -13,5 +13,3 @@ import AppTitle from './components/AppTitle.vue'
 <style scoped>
 
 </style>
-
-
